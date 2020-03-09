@@ -16,4 +16,4 @@ We can get the flag by reversing the process.
 
 [solve.py](solve.py)
 
-Flag `utflag{mips_cpp_gang_5VDm:~\`N]ze;\)5%vZ=C'C(r#$q=*efD"ZNY_GX>6&sn.wF8$v*mvA@'}`
+Flag ``utflag{mips_cpp_gang_5VDm:~`N]ze;\)5%vZ=C'C(r#$q=*efD"ZNY_GX>6&sn.wF8$v*mvA@'}``

